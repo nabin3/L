@@ -1,2 +1,1 @@
-# L
-Concurrent_golang_learning
+# Concurrent_golang_learning
